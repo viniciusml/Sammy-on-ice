@@ -1,4 +1,4 @@
-Accepted as WWDC 2019 Submission.
+Accepted for WWDC 2019 Scholarship.
 
 # Sammy on ice
 
