@@ -1,6 +1,6 @@
 # Sammy on ice
 
-## Overview
+Accepted as WWDC 2019 Submission.
 
 This is a fun Playground Book, with a ‘children’s book’ feel. It shows a baby emperor penguin telling a story. The book talks a little about their society's complexity, their resilience and family values.
 
